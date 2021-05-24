@@ -14,10 +14,10 @@
 					}
 				};
 				
-				I = (int i) -> System.out.println("kkkkkk"+i);
+				I = (int i) -> System.out.println("le nombre taper est "+i);
 				I.show(6);
 				
-				I = (int i) -> System.out.println("kkkkkk"+i);
+				
 			}
 		}
 		
