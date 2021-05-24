@@ -1,17 +1,6 @@
 
 
-//	 interface Interface {
-//		
-//		public void show();
-//	}
-//	class B implements Interface
-//		{
-//			
-//			public void show() 
-//			{
-//				System.out.println("hello");
-//			}
-//		}
+
 	
 		public class MainLambda {
 			public static void main(String[] args) {
