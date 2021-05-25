@@ -11,11 +11,14 @@
 					public void show(int i) 
 					{
 						System.out.println("hello");
+						System.out.println("hello");
+						System.out.println("hello");
+						System.out.println("hello");
 					}
 				};
 				
 				I = (int i) -> System.out.println("le nombre taper est "+i);
-				I.show(6);
+				I.show(10);
 				
 				
 			}
